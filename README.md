@@ -8,3 +8,5 @@ An E-commerce REST API system based on Java Spring, Spring Boot, Hibernate ORM w
 * Spring Web MVC - version 5.1.7 RELEASE
 * Spring SESSION - version 2.1.6 RELEASE
 * Spring Data JPA - version 2.1.8 RELEASE
+* Maven as build tool
+* POSTMAN for API testing
