@@ -13,3 +13,7 @@ An E-commerce REST API system based on Java Spring, Spring Boot, Hibernate ORM w
 
 ## Backend Microservices
 While the backing services in the middle layer are still considered to be microservices, they solve a set of concerns that are purely operational and security-related. The business logic of this application sits almost entirely in our bottom layer.
+
+## Features
+1. Admin
+2. User
